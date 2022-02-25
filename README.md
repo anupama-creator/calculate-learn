@@ -1,2 +1,2 @@
 # calculate-learn
-This is small code for learning
+Fortran code for learning the numerical methods
